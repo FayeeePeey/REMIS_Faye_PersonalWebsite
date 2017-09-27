@@ -1,6 +1,6 @@
 body {
-	background: #077054;
-	color: #315f52;
+	background: url(../images/nebula.jpg);
+	color: #17202A ;
 	font-family: 'latoregular';
 	font-size: 14px;
 	margin: 0;
@@ -40,7 +40,7 @@ p a {
 	color: #315f52;
 }
 p a:hover {
-	color: #451374;
+	color: #17202A;
 }
 #header 
 {
@@ -59,7 +59,7 @@ p a:hover {
 	text-decoration: none;
 }
 #header h1 a span {
-	color: #b6d8cf;
+	color: #17202A;
 	display: block;
 	font-family: 'nixie_oneregular';
 	font-size: 26px;
@@ -77,7 +77,7 @@ p a:hover {
 	position: relative;
 }
 #header ul#navigation li a {
-	color: #b6d8cf;
+	color: #17202A;
 	font-size: 18px;
 	padding: 0 46px;
 	text-align: center;
@@ -86,10 +86,10 @@ p a:hover {
 }
 #header ul#navigation li a:hover,
 #header ul#navigation li.current ul li a:hover {
-	color: #d3a3ff;
+	color: #17202A;
 }
 #header ul#navigation li.current a {
-	color: #99fa99;
+	color: #17202A  ;
 }
 #header ul#navigation li ul {
 	display: none;
@@ -104,7 +104,7 @@ p a:hover {
 	display: block;
 }
 #header ul#navigation li ul li {
-	background: #077054;
+	background: #D6DBDF;
 	display: block;
 	height: 46px;
 	line-height: 46px;
@@ -116,7 +116,7 @@ p a:hover {
 	color: #b6d8cf;
 }
 #body {
-	background: #ffffff;
+	background: #FADBD8;
 	margin: 1px auto 0;
 	max-width: 880px;
 	min-height: 827px;
@@ -146,7 +146,7 @@ p a:hover {
 }
 #body div#tagline h1 {
 	background: url(../images/bg-separator.png) no-repeat center bottom;
-	color: #21a51e;
+	color: #17202A;
 	font-family: 'nixie_oneregular';
 	font-size: 100px;
 	font-weight: normal;
@@ -157,7 +157,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body div#tagline p {
-	color: #21a51e;
+	color: #17202A;
 	font-family: 'nixie_oneregular';
 	font-size: 100px;
 	line-height: 100px;
